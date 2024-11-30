@@ -1,10 +1,41 @@
-## 👋 Hi, I’m @yosefa
+# 👋 Hi, I’m Yosefa Ferdianto  
 
-I'm a developer who loves learning and constantly improving. Since starting my career in this field, I've had the chance to work on a variety of challenging projects, and each one has helped me grow as a professional. I believe that technology solutions should simplify problems, not complicate them, and that's what I strive for in every project I take on.
+I'm a **Software Engineer** | **Full Stack Developer** passionate about building impactful technology solutions that simplify complex problems and enhance productivity. Since starting my career in 2015, I’ve been fortunate to work on diverse projects spanning **web applications**, **mobile development**, **IoT solutions**, **system integrations**, and more.  
 
-I've worked with various technologies, from web applications, mobile, IoT, to system integrations. However, my focus is not just on the technical aspects. I always aim to understand the business needs and collaborate with teams to find the right solutions. For me, technology is about making life and work easier, and I'm happy to be able to contribute to that goal.
+I believe in blending technical expertise with a deep understanding of business needs to deliver solutions that make life and work easier. My focus is always on creating reliable, efficient, and user-friendly systems while fostering collaboration to achieve shared goals.  
 
-#### Let's Collaborate!
-I'm always open to discussing or collaborating on new projects. If you're looking for someone who can help provide technology solutions or just want to share ideas, feel free to reach out. I'd be happy to listen and work together.
+## 🛠️ Tech Stack  
+Here’s a snapshot of the tools and technologies I work with:  
 
-- 📫 How to reach me yosefa@ganteng.my.id
+### **Programming & Development**  
+- **Back-End**: PHP, Node.js, Next.js
+- **Front-End**: Bootstrap, Tailwind CSS, jQuery, React  
+- **Mobile Development**: React Native, Java, Kotlin  
+- **Database Management**: MySQL, MariaDB, SQLite  
+- **Cloud & Hosting**: Hosting, VPS, AWS, Azure
+- **CMS**: WordPress, Joomla
+
+### **Infrastructure & Systems**  
+- **Servers**: cPanel, Ubuntu, Debian, Red Hat  
+- **Networking**: Cisco routers & access points, Mikrotik
+- **IoT**: Arduino, ESP32, Raspberry Pi  
+
+### **Other Tools & Platforms**  
+- Microsoft Power Platform (Power Automate, Forms, SharePoint)  
+- ERP Systems & API Integration  
+- Cron Jobs for Linux-based systems  
+- WhatsApp API Integration for Notifications
+
+## 🌟 Projects & Contributions  
+- Developed an ERP system with integrated modules like sales, accounting, inventory,and HR.  
+- Built web-based automation estimation tools to streamline proposals for potential customers.  
+- Designed and implemented an attendance system using RFID and mobile technologies.  
+- Created an energy monitoring system for real-time analysis and optimization.  
+- Configured secure internal networks with collaboration with Group IT, including routers and access points.  
+
+## 🚀 Let’s Collaborate!  
+I’m always excited to connect and collaborate on innovative projects. If you’re looking for someone with a proven track record of delivering impactful technology solutions or just want to share ideas, feel free to reach out:  
+
+📧 Email: yosefa@ganteng.my.id  
+
+Let’s create something amazing together!
