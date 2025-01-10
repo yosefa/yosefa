@@ -4,9 +4,7 @@ I'm a **Software Engineer** | **Full Stack Developer** passionate about building
 
 I believe in blending technical expertise with a deep understanding of business needs to deliver solutions that make life and work easier. My focus is always on creating reliable, efficient, and user-friendly systems while fostering collaboration to achieve shared goals.  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yosefa&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&cache_seconds=7200&count_private=true&rank_icon=github" alt="Stats" />
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosefa&layout=compact&theme=transparent&hide_border=true&cache_seconds=7200" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yosefa&layout=compact&langs_count=10&layout=compact&theme=transparent&hide_border=true&cache_seconds=7200" alt="Stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosefa&layout=compact&theme=transparent&hide_border=true&cache_seconds=7200" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=yosefa&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&cache_seconds=7200&count_private=true&rank_icon=github" alt="Stats" /> |
 | ------------- | ------------- |
 
 ## 🛠️ Tech Stack  
