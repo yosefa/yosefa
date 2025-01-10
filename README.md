@@ -6,7 +6,7 @@ I believe in blending technical expertise with a deep understanding of business 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yosefa&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&cache_seconds=7200&count_private=true&rank_icon=github" alt="Stats" />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosefa&layout=compact&theme=transparent&hide_border=true&cache_seconds=7200" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=karyanayandi&layout=compact&langs_count=10" alt="Stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosefa&layout=compact&theme=transparent&hide_border=true&cache_seconds=7200" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yosefa&layout=compact&langs_count=10&layout=compact&theme=transparent&hide_border=true&cache_seconds=7200" alt="Stats" /> |
 | ------------- | ------------- |
 
 ## 🛠️ Tech Stack  
