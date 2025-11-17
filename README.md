@@ -16,7 +16,7 @@ I believe in blending technical expertise with a deep understanding of business 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefa&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yosefa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yosefa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yosefa&icon=0&color=0)](https://visitcount.itsvg.in)
