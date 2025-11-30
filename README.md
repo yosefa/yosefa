@@ -1,11 +1,16 @@
-# 💫 About Me:
 👋 Hi, I'm Yosefa Ferdianto<br><br>
 I'm a Full Stack Software Engineer who loves turning complex problems into clean, efficient, and user-friendly digital solutions. Since 2015, I've built and maintained systems across web applications, mobile platforms, IoT integrations, and internal enterprise tools—always with a strong focus on practicality, maintainability, and user experience.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yosefaferdianto) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yosefaferdianto) 
 
-# 💻 Tech Stack
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yosefa&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yosefa&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefa&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yosefa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🧑‍💻 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -113,11 +118,3 @@ I'm a Full Stack Software Engineer who loves turning complex problems into clean
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yosefa&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yosefa&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefa&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yosefa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
