@@ -5,7 +5,6 @@ I'm a Full Stack Software Engineer who loves turning complex problems into clean
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yosefaferdianto) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yosefaferdianto) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yosefa&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=yosefa&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefa&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
