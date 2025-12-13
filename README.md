@@ -6,7 +6,7 @@ I'm a Full Stack Software Engineer who loves turning complex problems into clean
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=yosefa&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefa&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefa&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact&exclude_repo=)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yosefa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
