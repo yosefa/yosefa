@@ -6,7 +6,7 @@ I'm a Full Stack Software Engineer who loves turning complex problems into clean
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=yosefa&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats-six-olive-34.vercel.app/api/top-langs/?username=yosefa&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=Documents_M1,wy,ganteng,spc-web-balance,scholarship,booth_takjil,booking-meeting-room,coffee-dispenser-client,digitalform,coffee-dispenser-hmi,trias-erp,note_windows,skripsi_xampp,mypolin_xampp,lgi-attendance,attendance-react-native,grato-coffee-roaster,attendance-dell-read-web,attendance-dell,Webpack_Projects,TNA_Projects,ReactNative_Projects,Nodejs_Projects,laundry_xampp,sap_windows,crm_windows)
+![](https://github-readme-stats-six-olive-34.vercel.app/api/top-langs/?username=yosefa&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=Documents_M1,wy,ganteng,spc-web-balance,scholarship,booth_takjil,booking-meeting-room,coffee-dispenser-client,digitalform,coffee-dispenser-hmi,trias-erp,note_windows,skripsi_xampp,mypolin_xampp,lgi-attendance,attendance-react-native,grato-coffee-roaster,attendance-dell-read-web,attendance-dell,Webpack_Projects,TNA_Projects,ReactNative_Projects,Nodejs_Projects,laundry_xampp,triaserp-in-grpleg-com,sap_windows,crm_windows)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy-iota-gules.vercel.app/?username=yosefa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
