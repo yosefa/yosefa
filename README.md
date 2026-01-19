@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Yosefa Ferdianto
-I'm a Software Engineer who loves turning complex problems into clean, efficient, and user-friendly digital solutions. Since 2015, I've built and maintained systems across web applications, mobile platforms, IoT integrations, and internal enterprise tools—always with a strong focus on practicality, maintainability, and user experience.
+I'm a Software Engineer who loves turning complex problems into clean, efficient, and user-friendly digital solutions. Since 2014, I've built and maintained systems across web applications, mobile platforms, IoT integrations, and internal enterprise tools—always with a strong focus on practicality, maintainability, and user experience.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yosefaferdianto) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yosefaferdianto) 
 
