@@ -4,7 +4,7 @@ I'm a Software Engineer who loves turning complex problems into clean, efficient
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yosefaferdianto) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yosefaferdianto) 
 
 ### 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=yosefa&theme=default&hide_border=false)<br/>
+![](https://github-readme-streak-stats-five-sage-68.vercel.app/?user=yosefa&hide_border=false)<br/>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy-iota-gules.vercel.app/?username=yosefa&theme=flat&no-frame=false&no-bg=false&margin-w=4)
