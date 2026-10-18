@@ -7,4 +7,4 @@ I’ve been building software since 2014, and if there’s one thing I’ve lear
 ![](https://github-readme-streak-stats-five-sage-68.vercel.app/?user=yosefa&hide_border=false)<br/>
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy-iota-gules.vercel.app/?username=yosefa&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy-iota-gules.vercel.app/?username=yosefa&theme=flat&no-frame=false&no-bg=false&margin-w=4&title=-Reviews,-Issues,-Followers)
